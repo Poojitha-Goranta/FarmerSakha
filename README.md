@@ -24,3 +24,11 @@ Data Source: Google Sheets (CSV), Agricultural Dataset
 - Real-time IoT sensor integration
 - Region-specific datasets
 - Machine learning-based prediction
+
+## Prototype Preview
+
+### 🌐 Web Interface
+![Website Screenshot](FarmerSakha-ss1.png)
+
+### 🔧 Sensor Simulation (Tinkercad)
+![Tinkercad Screenshot](soil_sensor_device.png)
